@@ -39,22 +39,16 @@
   <h2>🚀 Installation & Usage</h2>
   
 # 1. Clone the repository
-      ```
       git clone https://github.com/niranjanmishra004/system-info-bash.git
-      ```
+
 # 2.Navigate into the directory
-      ```
       cd system-info-bash
-      ```
 
 # 3.Make the script executable
-      ```
      chmod +x system_stats.sh
-      ```
 
 # 4.Run the script
-      ```
       ./system_stats.sh
-      ```
+
 
 
