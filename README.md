@@ -39,10 +39,12 @@
   <h2>🚀 Installation & Usage</h2>
   <ol>
     <li>
-      <strong>Clone the repository</strong>
+      <strong>Clone the repository</strong>  
+      
       ```
       git clone https://github.com/niranjanmishra004/system-info-bash.git
       ```
+      
     </li>
     <li>
       <strong>Navigate into the directory</strong>
