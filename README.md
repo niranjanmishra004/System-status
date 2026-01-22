@@ -41,7 +41,7 @@
 <h4>1. Clone the repository</h4>
 
 ```
-git clone https://github.com/niranjanmishra004/system-info-bash.git
+git clone https://github.com/niranjanmishra004/System-status.git
 ```
 <h4>2.Navigate into the directory</h4>
 
