@@ -46,19 +46,19 @@ git clone https://github.com/niranjanmishra004/System-status.git
 <h4>2.Navigate into the directory</h4>
 
 ```
-cd system-info-bash
+cd System-status
 ```
 
 <h4>3.Make the script executable</h4>
   
 ```
-chmod +x system_stats.sh
+chmod +x system_status.sh
 ```
 
 <h4>4.Run the script</h4>
 
 ```
-./system_stats.sh
+./system_status.sh
 ```
 
 
