@@ -40,19 +40,26 @@
   
 <h4>1. Clone the repository</h4>
 
-      git clone https://github.com/niranjanmishra004/system-info-bash.git
-
+```
+git clone https://github.com/niranjanmishra004/system-info-bash.git
+```
 <h4>2.Navigate into the directory</h4>
 
-      cd system-info-bash
+```
+cd system-info-bash
+```
 
 <h4>3.Make the script executable</h4>
   
-     chmod +x system_stats.sh
+```
+chmod +x system_stats.sh
+```
 
 <h4>4.Run the script</h4>
 
-      ./system_stats.sh
+```
+./system_stats.sh
+```
 
 
 
