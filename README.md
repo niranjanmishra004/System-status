@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>System Monitor Dashboard</title>
-</head>
+
 <body>
 
   <h1>🖥️ System Monitor Dashboard (Bash)</h1>
@@ -117,11 +112,6 @@ System-status/
 
   <h2>🤝 Contributing</h2>
   <p>Contributions are welcome! Feel free to fork and submit a pull request.</p>
-
-  <hr>
-
-  <h2>📜 License</h2>
-  <p>This project is open-source and available under the MIT License.</p>
 
   <hr>
 
