@@ -38,8 +38,6 @@
 
   <h2>📸 Sample Output</h2>
   <img width="1186" height="1451" alt="image" src="https://github.com/user-attachments/assets/fdca8d88-daba-444f-bdc1-7784668c0fa9" />
-" 
-       alt="Sample Output" width="700">
 
   <hr>
 
