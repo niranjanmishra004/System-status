@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# ===== CONFIG =====
-
-LOGFILE="$HOME/system_report.log"
-
-
 # ===== Colors =====
 
 RESET="\e[0m"
