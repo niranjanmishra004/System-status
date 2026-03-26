@@ -1,7 +1,7 @@
 
 <body>
 
-  <h1>🖥️ System Monitor Dashboard (Bash)</h1>
+  <h1>🖥️ System Monitor Dashboard </h1>
 
   <p>
     A <strong>professional Bash-based system monitoring tool</strong> that displays real-time system information in a 
