@@ -37,7 +37,8 @@
   <hr>
 
   <h2>📸 Sample Output</h2>
-  <img src="https://github.com/user-attachments/assets/1e3d342a-7925-4c70-83fd-53630daea92e" 
+  <img width="1186" height="1451" alt="image" src="https://github.com/user-attachments/assets/fdca8d88-daba-444f-bdc1-7784668c0fa9" />
+" 
        alt="Sample Output" width="700">
 
   <hr>
