@@ -99,17 +99,6 @@ System-status/
 
   <hr>
 
-  <h2>🔮 Future Improvements</h2>
-  <ul>
-    <li>CLI flags (e.g., --cpu, --ram)</li>
-    <li>Auto-refresh mode</li>
-    <li>Logging system</li>
-    <li>Docker/Kubernetes integration</li>
-    <li>Alert notifications (Telegram/Slack)</li>
-  </ul>
-
-  <hr>
-
   <h2>🤝 Contributing</h2>
   <p>Contributions are welcome! Feel free to fork and submit a pull request.</p>
 
