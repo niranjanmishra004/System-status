@@ -1,6 +1,3 @@
-
-<body>
-
   <h1>🖥️ System Monitor Dashboard </h1>
 
   <p>
@@ -105,6 +102,3 @@ System-status/
 
   <h2>⭐ Support</h2>
   <p>If you found this useful, consider giving it a ⭐ on GitHub!</p>
-
-</body>
-</html>
